@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinayhs-7865
-- 👀 I’m interested in Databases and Networking
-- 🌱 I’m currently learning Databases, MCA from Dayananda Sagar University
+- 👀 I’m interested in Cyber Security and Networking
+- 🌱 I’m currently learning Cyber Security Analyst, MCA from Dayananda Sagar University
 
 <!---
 vinayhs-7865/vinayhs-7865 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
